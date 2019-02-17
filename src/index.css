@@ -1,14 +1,81 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+.logo{
+  height: 40px;
+  width: 100px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.video {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: #008CBA
+}
+
+.details_container{
+  margin: 32px;
+}
+
+.dummy{
+  background: #008CBA
+}
+
+.basecolor{
+  background: #0045D9
+}
+
+.divide64{
+  height: 64px;
+}
+
+.divide32{
+  height: 32px;
+}
+
+.gridColums{
+  padding: 32px;
+  height: 200px;
+  background: green;
+}
+
+.gridColumsAchievement{
+  padding: 32px;
+  height: 80px;
+  background: green;
+}
+
+.center{
+  top:50%; 
+  left:41%;
+}
+
+.clientText{
+  max-width: 400px;
+}
+
+
+.bottomNavLeft{
+  height: 300px;
+  background: #1B3058;
+}
+
+.bottomNavRight{
+  height: 300px;
+  background: #FFFFFF;
+}
+
+.grid{
+  padding: 0;
+  margin: 0;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: #1B3058;
 }
