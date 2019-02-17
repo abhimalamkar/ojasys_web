@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/abhimalamkar/ojasys_web.git/precache-manifest.36eec8b915b841ab7e17b9721d676207.js"
+  "/ojasys_web/precache-manifest.7a91696b54b5a4721badc18c2727b758.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/abhimalamkar/ojasys_web.git/index.html", {
+workbox.routing.registerNavigationRoute("/ojasys_web/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
