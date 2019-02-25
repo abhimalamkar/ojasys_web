@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "faff92145777a3cbaf8e7367b4807987",
-    "url": "/ojasys_web/static/media/icons.faff9214.woff"
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/ojasys_web/static/media/icons.8e3c7f55.eot"
   },
   {
-    "revision": "72de80b6532a6296276e",
-    "url": "/ojasys_web/static/css/main.770c1d1b.chunk.css"
+    "revision": "e8b34d6724f7ba8a886b",
+    "url": "/ojasys_web/static/css/main.64da2879.chunk.css"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
     "url": "/ojasys_web/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "b0ad40885d7bb198a2a5",
-    "url": "/ojasys_web/static/js/1.b0ad4088.chunk.js"
+    "revision": "e3bc559f1dabd7ca35d3",
+    "url": "/ojasys_web/static/js/1.e3bc559f.chunk.js"
   },
   {
     "revision": "a2b19263f71372240c1e",
@@ -56,16 +56,20 @@ self.__precacheManifest = [
     "url": "/ojasys_web/static/media/logo.a5cb80de.jpg"
   },
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/ojasys_web/static/media/icons.8e3c7f55.eot"
-  },
-  {
-    "revision": "72de80b6532a6296276e",
-    "url": "/ojasys_web/static/js/main.72de80b6.chunk.js"
-  },
-  {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
     "url": "/ojasys_web/static/media/icons.0ab54153.woff2"
+  },
+  {
+    "revision": "e8b34d6724f7ba8a886b",
+    "url": "/ojasys_web/static/js/main.e8b34d67.chunk.js"
+  },
+  {
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/ojasys_web/static/media/icons.b87b9ba5.ttf"
+  },
+  {
+    "revision": "962a1bf31c081691065fe333d9fa8105",
+    "url": "/ojasys_web/static/media/icons.962a1bf3.svg"
   },
   {
     "revision": "cd6c777f1945164224dee082abaea03a",
@@ -76,16 +80,8 @@ self.__precacheManifest = [
     "url": "/ojasys_web/static/media/outline-icons.701ae6ab.eot"
   },
   {
-    "revision": "962a1bf31c081691065fe333d9fa8105",
-    "url": "/ojasys_web/static/media/icons.962a1bf3.svg"
-  },
-  {
-    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
-    "url": "/ojasys_web/static/media/outline-icons.ad97afd3.ttf"
-  },
-  {
-    "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
-    "url": "/ojasys_web/static/media/outline-icons.82f60bd0.svg"
+    "revision": "faff92145777a3cbaf8e7367b4807987",
+    "url": "/ojasys_web/static/media/icons.faff9214.woff"
   },
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
@@ -96,31 +92,35 @@ self.__precacheManifest = [
     "url": "/ojasys_web/static/media/brand-icons.13db00b7.eot"
   },
   {
-    "revision": "e8c322de9658cbeb8a774b6624167c2c",
-    "url": "/ojasys_web/static/media/brand-icons.e8c322de.woff2"
+    "revision": "ad97afd3337e8cda302d10ff5a4026b8",
+    "url": "/ojasys_web/static/media/outline-icons.ad97afd3.ttf"
+  },
+  {
+    "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
+    "url": "/ojasys_web/static/media/outline-icons.82f60bd0.svg"
   },
   {
     "revision": "a046592bac8f2fd96e994733faf3858c",
     "url": "/ojasys_web/static/media/brand-icons.a046592b.woff"
   },
   {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/ojasys_web/static/media/icons.b87b9ba5.ttf"
-  },
-  {
-    "revision": "9c74e172f87984c48ddf5c8108cabe67",
-    "url": "/ojasys_web/static/media/flags.9c74e172.png"
+    "revision": "e8c322de9658cbeb8a774b6624167c2c",
+    "url": "/ojasys_web/static/media/brand-icons.e8c322de.woff2"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
     "url": "/ojasys_web/static/media/brand-icons.c5ebe0b3.ttf"
   },
   {
-    "revision": "b0ad40885d7bb198a2a5",
+    "revision": "9c74e172f87984c48ddf5c8108cabe67",
+    "url": "/ojasys_web/static/media/flags.9c74e172.png"
+  },
+  {
+    "revision": "e3bc559f1dabd7ca35d3",
     "url": "/ojasys_web/static/css/1.c88f95b6.chunk.css"
   },
   {
-    "revision": "a2931b0f252f00bf65386855aefff336",
+    "revision": "569343839966c3a19792ddcefce2601d",
     "url": "/ojasys_web/index.html"
   }
 ];

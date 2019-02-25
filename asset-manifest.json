@@ -1,10 +1,10 @@
 {
-  "main.css": "/ojasys_web/static/css/main.770c1d1b.chunk.css",
-  "main.js": "/ojasys_web/static/js/main.72de80b6.chunk.js",
-  "main.js.map": "/ojasys_web/static/js/main.72de80b6.chunk.js.map",
+  "main.css": "/ojasys_web/static/css/main.64da2879.chunk.css",
+  "main.js": "/ojasys_web/static/js/main.e8b34d67.chunk.js",
+  "main.js.map": "/ojasys_web/static/js/main.e8b34d67.chunk.js.map",
   "static/css/1.c88f95b6.chunk.css": "/ojasys_web/static/css/1.c88f95b6.chunk.css",
-  "static/js/1.b0ad4088.chunk.js": "/ojasys_web/static/js/1.b0ad4088.chunk.js",
-  "static/js/1.b0ad4088.chunk.js.map": "/ojasys_web/static/js/1.b0ad4088.chunk.js.map",
+  "static/js/1.e3bc559f.chunk.js": "/ojasys_web/static/js/1.e3bc559f.chunk.js",
+  "static/js/1.e3bc559f.chunk.js.map": "/ojasys_web/static/js/1.e3bc559f.chunk.js.map",
   "runtime~main.js": "/ojasys_web/static/js/runtime~main.a2b19263.js",
   "runtime~main.js.map": "/ojasys_web/static/js/runtime~main.a2b19263.js.map",
   "static/media/semantic.min.css": "/ojasys_web/static/media/brand-icons.a1a749e8.svg",
@@ -17,9 +17,9 @@
   "static/media/06.jpg": "/ojasys_web/static/media/06.3a75d2c7.jpg",
   "static/media/logo.jpg": "/ojasys_web/static/media/logo.a5cb80de.jpg",
   "static/media/rawpixel-1090772-unsplash.jpg": "/ojasys_web/static/media/rawpixel-1090772-unsplash.7fddc7b4.jpg",
-  "static/css/main.770c1d1b.chunk.css.map": "/ojasys_web/static/css/main.770c1d1b.chunk.css.map",
+  "static/css/main.64da2879.chunk.css.map": "/ojasys_web/static/css/main.64da2879.chunk.css.map",
   "static/css/1.c88f95b6.chunk.css.map": "/ojasys_web/static/css/1.c88f95b6.chunk.css.map",
   "index.html": "/ojasys_web/index.html",
-  "precache-manifest.0ab5d828dd51abcd36cdd9df5ee620f3.js": "/ojasys_web/precache-manifest.0ab5d828dd51abcd36cdd9df5ee620f3.js",
+  "precache-manifest.c3f39c2bfd06f9fcf359cedaa4d0ad51.js": "/ojasys_web/precache-manifest.c3f39c2bfd06f9fcf359cedaa4d0ad51.js",
   "service-worker.js": "/ojasys_web/service-worker.js"
 }
