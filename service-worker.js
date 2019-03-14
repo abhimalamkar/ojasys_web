@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ojasys_web/precache-manifest.c3f39c2bfd06f9fcf359cedaa4d0ad51.js"
+  "/ojasys_web/precache-manifest.9084315e8b0d32e386d96c6c6e905320.js"
 );
 
 workbox.clientsClaim();
