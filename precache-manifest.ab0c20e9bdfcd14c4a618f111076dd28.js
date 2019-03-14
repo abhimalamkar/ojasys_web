@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/ojasys_web/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "c7ed6e3d3f1955cb3872",
-    "url": "/ojasys_web/static/css/main.a23dea69.chunk.css"
+    "revision": "6f28e11d2033c015dfa1",
+    "url": "/ojasys_web/static/css/main.f527d4c7.chunk.css"
   },
   {
     "revision": "a1a749e89f578a49306ec2b055c073da",
     "url": "/ojasys_web/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "68c08d546e7300b7c6f5",
-    "url": "/ojasys_web/static/js/1.68c08d54.chunk.js"
+    "revision": "03eac63169994102b602",
+    "url": "/ojasys_web/static/js/1.03eac631.chunk.js"
   },
   {
     "revision": "a2b19263f71372240c1e",
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/ojasys_web/static/media/outline-icons.cd6c777f.woff2"
   },
   {
-    "revision": "c7ed6e3d3f1955cb3872",
-    "url": "/ojasys_web/static/js/main.c7ed6e3d.chunk.js"
+    "revision": "6f28e11d2033c015dfa1",
+    "url": "/ojasys_web/static/js/main.6f28e11d.chunk.js"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -116,11 +116,11 @@ self.__precacheManifest = [
     "url": "/ojasys_web/static/media/icons.962a1bf3.svg"
   },
   {
-    "revision": "68c08d546e7300b7c6f5",
-    "url": "/ojasys_web/static/css/1.d3f66a07.chunk.css"
+    "revision": "03eac63169994102b602",
+    "url": "/ojasys_web/static/css/1.8859b3df.chunk.css"
   },
   {
-    "revision": "2b910e56cf01be63249c0d64b6ff3ea4",
+    "revision": "95079fe365be85ae7e288d872ed50106",
     "url": "/ojasys_web/index.html"
   }
 ];
