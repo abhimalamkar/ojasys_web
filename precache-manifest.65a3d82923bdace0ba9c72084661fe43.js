@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/ojasys_web/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "b2d8d65c12f31dfe2741",
+    "revision": "e2367e73793b4961d213",
     "url": "/ojasys_web/static/css/main.228f5bf4.chunk.css"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/ojasys_web/static/media/outline-icons.cd6c777f.woff2"
   },
   {
-    "revision": "b2d8d65c12f31dfe2741",
-    "url": "/ojasys_web/static/js/main.b2d8d65c.chunk.js"
+    "revision": "e2367e73793b4961d213",
+    "url": "/ojasys_web/static/js/main.e2367e73.chunk.js"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/ojasys_web/static/css/1.afbb0f5e.chunk.css"
   },
   {
-    "revision": "c71a9458ba2ba94f610d09776d86bd8a",
+    "revision": "92d5d2216f32b318e69369c4e35b9606",
     "url": "/ojasys_web/index.html"
   }
 ];
